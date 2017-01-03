@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">IPT Open Data API Android Sample</string>
+    <string name="processing">Processing please wait</string>
+    <string name="ErrorParsingResponse">An error has occured wille parsing the response from API.</string>
+    <string name="noResponseFromAPI">No response from API.</string>
+    <string name="schoolIdMissing">Please enter a school id.</string>
+    <string name="ErrorParsingDataToSend">Error parsing data to send to server.</string>
+</resources>
